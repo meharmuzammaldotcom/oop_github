@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Projects\\Bus Simulator 2025\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7056E223-B944-7F6B-F00D-1CE9B20A7FD5}|Assembly-CSharp.csproj|d:\\unity projects\\bus simulator 2025\\oop\\assets\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7056E223-B944-7F6B-F00D-1CE9B20A7FD5}|Assembly-CSharp.csproj|solutionrelative:assets\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PushNotification.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Bus Simulator 2025\\OOP\\Assets\\PushNotification.cs",
+              "RelativeDocumentMoniker": "Assets\\PushNotification.cs",
+              "ToolTip": "D:\\Unity Projects\\Bus Simulator 2025\\OOP\\Assets\\PushNotification.cs",
+              "RelativeToolTip": "Assets\\PushNotification.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:45:19.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

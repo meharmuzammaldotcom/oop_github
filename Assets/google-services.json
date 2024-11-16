@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243343956026",
+    "project_id": "push-notification-781fa",
+    "storage_bucket": "push-notification-781fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243343956026:android:baef6389c5a9f609e5bd03",
+        "android_client_info": {
+          "package_name": "com.brixxgame.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8y8nomsE7IBs6vvQrf2mu-RWLDEsv9qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
